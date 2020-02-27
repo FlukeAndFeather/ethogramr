@@ -1,0 +1,20 @@
+Package: ethogramr
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Max",
+           family = "Czapanskiy",
+           role = c("aut", "cre"),
+           email = "maxczap@stanford.edu",
+           comment = c("ORCID-ID" = "0000-0002-6302-905X"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: es
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports: 
+    dplyr,
+    shiny
+Suggests: 
+    testthat (>= 2.1.0)
